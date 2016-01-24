@@ -1,6 +1,6 @@
 ##############################################################
 
-atmega328bb.name=ATmega328 on a breadboard (8 MHz internal clock)
+atmega328bb.name=ATmega328p (8 MHz internal)
 
 atmega328bb.upload.protocol=arduino
 atmega328bb.upload.maximum_size=30720

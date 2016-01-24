@@ -22,7 +22,7 @@
           "checksum": "SHA-256:3987B081B0C15748681528FB509B9464AB8A6F4838D667F046F44EB64EEBB6AD",
           "size": "5246",
           "boards": [
-            {"name": "ATmega328p on a breadboard (8mhz internal clock)"}
+            {"name": "ATmega328p (8mhz internal)"}
           ],
           "toolsDependencies": [
             { "packager": "arduino", "name": "avr-gcc", "version": "4.8.1-arduino5" },
