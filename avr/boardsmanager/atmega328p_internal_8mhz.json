@@ -17,12 +17,12 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/damellis/attiny/archive/76ca88ce3c195fcba8e8a645084e352965dc80e0.zip",
-          "archiveFileName": "76ca88ce3c195fcba8e8a645084e352965dc80e0.zip",
-          "checksum": "SHA-256:49a4dfc3796caf2533050b0b962ae0affb2471b8ded1283936d7b712cc1fdff1",
-          "size": "5719",
+          "url": "https://github.com/oshlab/Breadboard-Arduino/archive/1.6.7.zip",
+          "archiveFileName": "1.6.7.zip",
+          "checksum": "SHA-256:3987B081B0C15748681528FB509B9464AB8A6F4838D667F046F44EB64EEBB6AD",
+          "size": "5246",
           "boards": [
-            {"name": "ATtiny45"}
+            {"name": "ATmega328p on a breadboard (8mhz internal clock)"}
           ],
           "toolsDependencies": [
             {
