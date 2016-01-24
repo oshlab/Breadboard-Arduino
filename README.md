@@ -7,6 +7,8 @@ There are 3 ways to install these boards files into Arduino.
 
 
 #### Boards Manager ####
+
+==!!! NOT WORKING... YET !!!!==
 Add this link to your boards manager. 
 
 ```
