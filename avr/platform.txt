@@ -1,2 +1,2 @@
-name=Breadboard Arduino
+name=Breadboard Arduino (OSHLAB.com)
 version=1.6.7

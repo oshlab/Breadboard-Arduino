@@ -1,6 +1,6 @@
 ##############################################################
 
-atmega328bb.name=ATmega328p (8 MHz internal)
+atmega328bb.name=ATmega328p (8mhz internal)
 
 atmega328bb.upload.protocol=arduino
 atmega328bb.upload.maximum_size=30720
