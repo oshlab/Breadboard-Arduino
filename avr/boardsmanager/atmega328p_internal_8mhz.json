@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "Breadboard Arduino",
+      "maintainer": "OSH Lab",
+      "websiteURL": "https://github.com/oshlab/breadboard/",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "breadboard",
+          "architecture": "avr",
+          "version": "1.6.9",
+          "category": "atmega",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/damellis/attiny/archive/76ca88ce3c195fcba8e8a645084e352965dc80e0.zip",
+          "archiveFileName": "76ca88ce3c195fcba8e8a645084e352965dc80e0.zip",
+          "checksum": "SHA-256:49a4dfc3796caf2533050b0b962ae0affb2471b8ded1283936d7b712cc1fdff1",
+          "size": "5719",
+          "boards": [
+            {"name": "ATtiny45"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
