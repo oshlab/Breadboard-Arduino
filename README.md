@@ -1,7 +1,9 @@
 # Breadboard Arduino
 ### ATmega 328p with internal 8mhz clock###
 
-This version of the Breadboard Arduino boards file is compatible with Arduino 1.6.7. It is designed to work with an ATmega328p using the internal 8mhz oscillator. Always burn the bootload on a new chip, regardless of whether or not you plan to use it. This is required to set the fuse settings to the internal clock. The bootloader works identically to the Arduino Uno bootloader.
+**Important: when using this, you must select the "Burn Bootloader" function from the tools menu in Arduino the first time and burn the bootloader with an AVR programmer. This is needed even if you are not going to use the Arduino bootloader because it sets the fuse settings for the internal clock. **
+
+This version of the Breadboard Arduino boards file is compatible with Arduino 1.6.7. It is designed to work with an ATmega328p using the internal 8mhz oscillator. The bootloader works identically to the Arduino Uno bootloader.
 
 There are 3 ways to install these boards files into Arduino.
 
@@ -28,5 +30,6 @@ Just download this repository and add it to your hardware file directory. For wi
 
 
 OSH Lab, LLC
+http://oshlab.com
 
 
