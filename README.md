@@ -13,7 +13,7 @@ There are 3 ways to install these boards files into Arduino.
 Add this link to your boards manager. 
 
 ```
-https://raw.githubusercontent.com/oshlab/Breadboard-Arduino/master/avr/boardsmanager/package_oshpark_breadboard_index.json
+https://raw.githubusercontent.com/oshlab/Breadboard-Arduino/master/avr/boardsmanager/package_oshlab_breadboard_index.json
 ```
 Download through the boards manager. This is the easiest method.
 
