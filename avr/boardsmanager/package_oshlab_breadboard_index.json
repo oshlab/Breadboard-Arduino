@@ -38,7 +38,7 @@
             "online": "https://github.com/oshlab/Breadboard-Arduino"
           },
           "url": "https://raw.github.com/oshlab/Breadboard-Arduino/gh-pages/dl/BreadboardArduino_1.6.10.zip",
-          "archiveFileName": "Breadboard-Arduino_1.6.10.zip",
+          "archiveFileName": "BreadboardArduino_1.6.10.zip",
           "checksum": "SHA-256:3A7B85C5DF1913A1CEC96F1B511D6EE9D34458DCD319D29C443BBA5D90F5F3FF",
           "size": "3111",
           "boards": [
