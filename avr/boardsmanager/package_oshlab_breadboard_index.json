@@ -32,7 +32,7 @@
         {
           "name": "Breadboard Arduino",
           "architecture": "avr",
-          "version": "1.6.11",
+          "version": "1.6.10",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/oshlab/Breadboard-Arduino"
