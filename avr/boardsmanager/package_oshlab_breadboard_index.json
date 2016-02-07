@@ -32,15 +32,15 @@
         {
           "name": "Breadboard Arduino",
           "architecture": "avr",
-          "version": "1.6.91",
+          "version": "1.6.10",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/oshlab/Breadboard-Arduino"
           },
-          "url": "https://raw.github.com/oshlab/Breadboard-Arduino/gh-pages/dl/Breadboard-Arduino_1.6.9.1.zip",
-          "archiveFileName": "Breadboard-Arduino_1.6.9.1.zip",
-          "checksum": "SHA-256:CCA5F72890A2FFCBACE6875CF6D7DF6D6E8FC282A12A1C8D6252CACDF070ABAF",
-          "size": "2809",
+          "url": "https://raw.github.com/oshlab/Breadboard-Arduino/gh-pages/dl/Breadboard-Arduino_1.6.10.zip",
+          "archiveFileName": "Breadboard-Arduino_1.6.10.zip",
+          "checksum": "SHA-256:060D2A29C8567B87FDCFDDC0B6EEF2D17ADE45EE73E04FC6BEA98D28B29F9FAE",
+          "size": "3111",
           "boards": [
             {"name": "ATmega328p (8mhz internal)"}
           ],
